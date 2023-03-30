@@ -26,8 +26,8 @@ Le DOT peut être aussi l'occasion d'indiquer les éventuelles difficultés renc
 Notez **chaque semaine** ce que vous faites et la date correspondante.
 
 - Jeudi 2 février 2023 : première séance de TIPE. Présentation des attendus.
--
--
+- 9 février 2023 : Recherche de sujet, premières idées -> deep learning
+- 6 mars 2023 : Approfondissement des recherches, ébauche d'un deuxième sujet sur le TAS de portal.
 -
 -
 -
