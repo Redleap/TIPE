@@ -28,7 +28,15 @@ Notez **chaque semaine** ce que vous faites et la date correspondante.
 - Jeudi 2 février 2023 : première séance de TIPE. Présentation des attendus.
 - 9 février 2023 : Recherche de sujet, premières idées -> deep learning
 - 2 mars 2023 : Approfondissement des recherches, ébauche d'un deuxième sujet sur le TAS de portal.
--
+- 9 mars : confirmation de la piste deep learning, recherche de problématique (infructueux)
+- 16 mars : documentation rudimentaire sur le DL'
+- 23 mars : recherche de documentation sur le DL' (infructueux)
+- 30 mars : "" (c'est introuvable ce truc)
+- 6 avril 2023 : analyse d'un document en lua
+- 13 avril 2023 : poursuite de l'analyse, retour a la recherche de problématique
+- 4 mai 2023 : Idée précise -> Comparaison de l'apprentissage de l'IA sur des jeux élémentaire et limites :
+                                  mastermind (courbes de vitesse de résolution/nombre de points a trouver (comparable avec la solution optimale))
+                                  
 -
 -
 -
