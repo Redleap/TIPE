@@ -37,7 +37,7 @@ Notez **chaque semaine** ce que vous faites et la date correspondante.
 - 4 mai 2023 : Idée précise -> Comparaison de l'apprentissage de l'IA sur des jeux élémentaire et limites :
                                   mastermind (courbes de vitesse de résolution/nombre de points a trouver (comparable avec la solution optimale))
                                   poulet qui traverse
-                                  ...
+                                  NME (abalon-hard)
 -
 -
 -
