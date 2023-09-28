@@ -38,7 +38,10 @@ Notez **chaque semaine** ce que vous faites et la date correspondante.
                                   mastermind (courbes de vitesse de résolution/nombre de points a trouver (comparable avec la solution optimale))
                                   poulet qui traverse
                                   NME (abalon-hard)
--
+  -----------------MPI-------------------
+- 21 Septembre 2023 : "Mesure de la complexité d'un jeu via l'utilisation d'IA deep-learning"
+                           -> trouver une manière de lier a au moins une des 3 complexité : Espace d'états, Complexité de l'arbre de Jeu, Computationelle
+                              source originale : (https://perso.ens-lyon.fr/edouard.bonnet/publi/games.pdf) 
 -
 -
 -
